@@ -4,7 +4,7 @@ Code and data for the analysis of literary soundscapes in the DNov (Dickens Nove
 Three Notebooks:
 1) Preparation of the TXT files as XML for automated sound annotation with NEISS NTEE
 2) Loudness level labeling with a dictionary matching algorithm and enrichment of the XML files
-3) Sound analysis and different visualizations of the annotations per chapter or scene if applicable
+3) Sound analysis and different visualizations of the annotations per chapter or scene if applicable (absolute numbers or normalized to scene/chapter length)
 
 
 Dickens Novel corpus taken from: Corpora: Mahlberg-Lab (2024): A collection of reformatted texts for use with CCR tools. [https://github.com/mahlberg-lab/corpora/tree/master](https://github.com/mahlberg-lab/corpora/tree/master).
