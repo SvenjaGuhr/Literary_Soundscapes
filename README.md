@@ -1,7 +1,7 @@
 # Literary_Soundscapes
 Code and data for the analysis of literary soundscapes in the DNov (Dickens Novel Corpus)
 
-Three Notebooks:
+Three Notebooks (best executable in pycharm):
 1) Preparation of the TXT files as XML for automated sound annotation with NEISS NTEE
 2) Loudness level labeling with a dictionary matching algorithm and enrichment of the XML files
 3) Sound analysis and different visualizations of the annotations per chapter or scene if applicable (absolute numbers or normalized to scene/chapter length)
