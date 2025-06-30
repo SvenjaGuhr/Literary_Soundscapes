@@ -13,3 +13,5 @@ Dickens Novel corpus taken from: Corpora: Mahlberg-Lab (2024): A collection of r
 Lemke, Marc et al. (2023): NEISS NTEE. [https://github.com/NEISSproject/tei_entity_enricher](https://github.com/NEISSproject/tei_entity_enricher). 
 
 Guhr, S. (in print): Raise Your Voice. Character Sound in German-language Fiction. Metzler Series Digitale Literaturwissenschaft. Springer/Nature. 
+
+Gius, E. et al. (2021): Guidelines for Detection of Scenes. Zenodo. 10.5281/ZENODO.4457177
