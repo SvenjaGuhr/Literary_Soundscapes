@@ -1,4 +1,4 @@
-# Literary_Soundscapes
+# Literary Soundscapes
 Code and data for the analysis of literary soundscapes in the DNov (Dickens Novel Corpus)
 
 Three Notebooks (best executable in pycharm):
